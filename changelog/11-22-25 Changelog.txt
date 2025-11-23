@@ -1,0 +1,21 @@
+11/17/25:
+- Changed file names for clarity,
+
+- Added created at
+- Added Edit Bin option
+- Added email check
+- Added back button to create bin page.
+- Added image editing (cropping/rotating).
+- Added bin sorting/search
+
+- Fixed Add Item on mobile and desktop
+- Fixed when logged in redirect to login page.
+- Fixed bin image paths (made more secure)
+- Fixed rounding on item images on cards.
+- Fixed bin deletion
+- Fixed registration email
+
+11/22/25:
+- Persisted bins/items view mode (Grid/List).
+- Tags: normalize on save; add/edit tags in item modals; display chips; filter by title/description/tags; show aggregated tags per bin.
+- Improved mobile list alignment, menu z-index, and row click behavior; fixed dots.png path.
